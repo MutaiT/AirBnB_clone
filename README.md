@@ -11,8 +11,10 @@ This console is developed using Ubuntu 23.10 using version 3.12.3 of Python 3.
 
 ### How to Install the Console
 To install the console, simply run the command:
+```
+$ git clone https://github.com/MutaiT/AirBnB_clone.git
 
-[$ git clone(https://github.com/MutaiT/AirBnB_clone.git)]
+```
 
 
 
